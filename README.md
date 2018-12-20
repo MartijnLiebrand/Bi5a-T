@@ -1,4 +1,4 @@
-Initialisatie van Tentamen Repository Bi5a-T_1819
+Initialisatie van Tentamen Repository Bi5a-T
 # Naam Student:
 ## Studentnummer:
 ## Klas:
